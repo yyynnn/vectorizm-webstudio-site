@@ -1,2 +1,2 @@
 # yuksha-site
-Goddamn Yanis Yuksha webpage
+Our Goddamn webstudio
